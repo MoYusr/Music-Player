@@ -28,6 +28,12 @@ const music_list = [
         music : 'music/itwasagoodday.mp3',
     },
     {
+        img : 'images/nwa.jpg',
+        name : 'Express Yourself',
+        artist : 'N.W.A',
+        music : 'music/expressyourself.mp3',
+    },
+    {
         img : 'images/bcs.jpg',
         name : 'Better Call Saul',
         artist : 'Little Barrie',
@@ -38,7 +44,43 @@ const music_list = [
         name : 'Reign',
         artist : 'SEGA',
         music : 'music/reign.mp3',
-    }
+    },
+    {
+        img : 'images/tekken7.jpg',
+        name : 'Heat Haze Shadow 2',
+        artist : 'Bandai Namco',
+        music : 'music/heathazeshadow2.mp3',
+    },
+    {
+        img : 'images/mountains.jpg',
+        name : 'Crossing Field',
+        artist : 'LISA',
+        music : 'music/crossingfield.mp3',
+    },
+    {
+        img : 'images/blindinglights.jpg',
+        name : 'Blinding Lights',
+        artist : 'The Weeknd',
+        music : 'music/blindinglights.mp3',
+    },
+    {
+        img : 'images/stairway.jpg',
+        name : 'Stairway to Heaven',
+        artist : 'Led Zeppelin',
+        music : 'music/stairwaytoheaven.mp3',
+    },
+    {
+        img : 'images/sinatra.jpg',
+        name : "That's Life",
+        artist : 'Frank Sinatra',
+        music : 'music/thatslife.mp3',
+    },
+    {
+        img : 'images/badboys.jpg',
+        name : "Bad Boys",
+        artist : 'Inner Circle',
+        music : 'music/badboys.mp3',
+    },
 ];
 
 loadTrack(track_index);
